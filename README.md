@@ -21,7 +21,4 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
-## 🐍 Моя GitHub-змійка
-
-![snake gif](https://github.com/viktoryashchuk/viktoryashchuk/blob/output/github-contribution-grid-snake.svg)
 
