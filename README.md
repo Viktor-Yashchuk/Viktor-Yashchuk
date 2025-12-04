@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-
-
-## 🐍 Моя GitHub-змійка
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viktor-Yashchuk/Viktor-Yashchuk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viktor-Yashchuk/Viktor-Yashchuk/output/github-contribution-grid-snake.svg">
