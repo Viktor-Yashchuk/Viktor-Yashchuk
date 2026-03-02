@@ -80,6 +80,8 @@ A responsive web application developed as a team project.
 
 🌐 Live Demo: [View Project](https://commercial-team-projects.github.io/simply-chocolate-evening/)
 
+<a href="https://commercial-team-projects.github.io/simply-chocolate-evening/" target="_blank">Live Demo</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viktor-Yashchuk/Viktor-Yashchuk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viktor-Yashchuk/Viktor-Yashchuk/output/github-contribution-grid-snake.svg">
