@@ -37,6 +37,19 @@ Actively preparing for a Junior Frontend / Full Stack Developer position.
 
 ---
 
+## 🌟 Featured Team Projects
+
+### No Bugs Just Pugs – Team Lead
+
+A responsive web application developed as part of a team project during Full Stack training.  
+
+**My Responsibilities:**
+- Set up Git workflow and branching strategy for the team
+- Conducted code reviews to maintain quality and consistency
+- Configured deployment
+- Refactored key sections of the application to improve structure and performance
+- Provided technical guidance and support to team members
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viktor-Yashchuk/Viktor-Yashchuk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viktor-Yashchuk/Viktor-Yashchuk/output/github-contribution-grid-snake.svg">
