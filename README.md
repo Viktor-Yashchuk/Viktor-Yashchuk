@@ -37,7 +37,7 @@ Actively preparing for a Junior Frontend / Full Stack Developer position.
 
 ---
 
-## 🌟 Featured Team Projects
+## 🌟 Featured Projects
 
 ### No Bugs Just Pugs – Team Lead
 
@@ -46,9 +46,25 @@ A responsive web application developed as part of a team project during Full Sta
 **My Responsibilities:**
 - Set up Git workflow and branching strategy for the team
 - Conducted code reviews to maintain quality and consistency
-- Configured deployment
+- Configured deployment (e.g., Vercel / Netlify)
 - Refactored key sections of the application to improve structure and performance
 - Provided technical guidance and support to team members
+
+🌐 Live Demo: [https://viktor-yashchuk.github.io/No-Bugs-Just-Pugs/)  
+
+---
+
+### Project-08 – Scrum Master / Frontend Developer
+
+A responsive web application developed as part of a team project.  
+
+**My Responsibilities:**
+- Acted as Scrum Master: facilitated team meetings, sprint planning, and backlog management
+- Developed key frontend components: header and mobile menu
+- Conducted code reviews to ensure quality and consistency
+- Supported team workflow and coordinated with developers to resolve issues
+
+🌐 Live Demo: [View Project](https://dmytro-dobrotvorskyi.github.io/project-08/) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viktor-Yashchuk/Viktor-Yashchuk/output/github-contribution-grid-snake-dark.svg">
