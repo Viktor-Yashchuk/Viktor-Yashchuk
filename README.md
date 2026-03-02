@@ -1,8 +1,6 @@
 # Hi, I'm Viktor 👋
 
-Full Stack Developer in training based in the Netherlands.  
-Background in coaching and leadership with strong problem-solving skills.  
-Currently focused on building responsive web applications with JavaScript and React.
+Full Stack Developer in training | JavaScript & React
 
 ---
 
@@ -39,7 +37,7 @@ Actively preparing for a Junior Frontend / Full Stack Developer position.
 
 ## 🌟 Featured Projects
 
-### No Bugs Just Pugs – Team Lead
+### 🐾 Paw Hut – Team Lead
 
 A responsive web application developed as part of a team project during Full Stack training.  
 
@@ -54,7 +52,7 @@ A responsive web application developed as part of a team project during Full Sta
 
 ---
 
-### Project-08 – Scrum Master / Frontend Developer
+### ☕ CoffeeJoy – Scrum Master / Frontend Developer
 
 A responsive web application developed as part of a team project.  
 
@@ -68,7 +66,7 @@ A responsive web application developed as part of a team project.
 
 ---
 
-### Simply Chocolate Evening – Frontend Developer / Code Refactor
+### 🍫 Simply Chocolate Evening – Frontend Developer / Code Refactor
 
 A responsive web application developed as a team project.  
 
