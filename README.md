@@ -46,11 +46,11 @@ A responsive web application developed as part of a team project during Full Sta
 **My Responsibilities:**
 - Set up Git workflow and branching strategy for the team
 - Conducted code reviews to maintain quality and consistency
-- Configured deployment (e.g., Vercel / Netlify)
+- Configured deployment
 - Refactored key sections of the application to improve structure and performance
 - Provided technical guidance and support to team members
 
-🌐 Live Demo: [https://viktor-yashchuk.github.io/No-Bugs-Just-Pugs/)  
+🌐 Live Demo: [View Project](https://viktor-yashchuk.github.io/No-Bugs-Just-Pugs/) 
 
 ---
 
