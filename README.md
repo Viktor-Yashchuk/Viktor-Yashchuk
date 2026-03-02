@@ -66,6 +66,20 @@ A responsive web application developed as part of a team project.
 
 🌐 Live Demo: [View Project](https://dmytro-dobrotvorskyi.github.io/project-08/) 
 
+---
+
+### Simply Chocolate Evening – Frontend Developer / Code Refactor
+
+A responsive web application developed as a team project.  
+
+**My Responsibilities:**
+- Refactored and rewrote major parts of the application to improve structure, readability, and maintainability
+- Implemented key frontend components and ensured responsive design
+- Conducted code reviews and guided team members on best practices
+- Managed Git workflow and assisted in project deployment
+
+🌐 Live Demo: [View Project](https://commercial-team-projects.github.io/simply-chocolate-evening/)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viktor-Yashchuk/Viktor-Yashchuk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viktor-Yashchuk/Viktor-Yashchuk/output/github-contribution-grid-snake.svg">
