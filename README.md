@@ -14,10 +14,6 @@
 <a href="https://www.linkedin.com/in/viktor-yashchuk-4a36a93a2/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;
-<a href="mailto:viktor.yashchuk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
 
 </div>
 
@@ -44,7 +40,9 @@ code reviews, and deployment — and I'm now looking to grow in a junior develop
 ## 🚀 Tech Stack
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,vite,git,github,vscode&perline=10" alt="tech stack" />
+
 </div>
 
 <!-- ============ LEARNING ============ -->
@@ -164,15 +162,12 @@ improve structure and performance, built key components, and handled deployment.
 </div>
 
 <!-- ============ CONTACT ============ -->
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/viktor-yashchuk-4a36a93a2/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:viktor.yashchuk@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://github.com/Viktor-Yashchuk">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
